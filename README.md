@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reshab Singh</h1>
 <h3 align="center">"Code, data, and curiosity."</h3>
 
-<img align= "right" alt="coding" width="480" height = "360" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align= "right" alt="coding" width="400" height = "320" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhwalia98&label=Profile%20views&color=0e75b6&style=flat" alt="singhwalia98" /> </p>
 
