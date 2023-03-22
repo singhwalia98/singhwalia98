@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reshab Singh</h1>
-<h3 align="center">"Code, data, and curiosity."</h3>
+<h3 align="center">Code, data, and curiosity </h3>
 
-<img align= "right" alt="coding" width="400" height = "320" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align= "right" alt="coding" width="420" height = "300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhwalia98&label=Profile%20views&color=0e75b6&style=flat" alt="singhwalia98" /> </p>
 
@@ -12,8 +12,6 @@
 - 💬 Ask me about **Python Programming, EDA & Feature Engineering, Data manipulation or about Data Science in general 😄**
 
 - 📫 Drop me an email at **reshabsingh786@gmail.com**
-
-- 📞 You can call me by dialling **8981-244-101**
 
 - ⚡ Fun fact **The "Birthday Paradox" states that if you have a group of just 23 people, there is a 50% chance that two of them will have the same birthday. 🎂**
 
