@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Reshab Singh</h1>
 <h3 align="center">"Code, data, and curiosity."</h3>
 
-<img align= "right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align= "right" alt="coding" width="450" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhwalia98&label=Profile%20views&color=0e75b6&style=flat" alt="singhwalia98" /> </p>
 
-- 🔭 I’m currently working on **YouTube Scrapping Project**
+- 🔭 I’m currently working on **YouTube Scrapping Project.**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning.**
 
-- 💬 Ask me about **Python Programming, EDA & Feature Engineering, Data manipulation or about anything in general 😄**
+- 💬 Ask me about **Python Programming, EDA & Feature Engineering, Data manipulation or about Data Science in general 😄**
 
 - 📫 Drop me an email at **reshabsingh786@gmail.com**
 
